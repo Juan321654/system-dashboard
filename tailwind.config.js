@@ -69,7 +69,7 @@ module.exports = {
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
-        "accordion-up": 'accordion-up 0.2s ease-out",dion-up 0.2s ease-out',
+        "accordion-up": "accordion-up 0.2s ease-out",
       },
       cssVariables: {
         "--primary-rgb": "147, 51, 234", // Purple (adjust based on your primary color)
